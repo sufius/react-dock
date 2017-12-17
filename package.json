@@ -1,6 +1,6 @@
 {
-  "name": "react-dock",
-  "version": "0.2.4",
+  "name": "react-dock-native",
+  "version": "0.2.5",
   "description": "Resizable dockable react component",
   "scripts": {
     "build-lib": "babel src --out-dir lib",
@@ -25,7 +25,7 @@
     "dock",
     "sidebar"
   ],
-  "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
+  "author": "Sufian <s.aburab@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/alexkuz/react-dock/issues"
